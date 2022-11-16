@@ -1,0 +1,50 @@
+
+
+
+.border {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(18, 18, 41);
+   
+}
+
+.border #red{
+    
+
+    border-radius: 500px;
+    padding: 60px;
+    background-color: red;
+
+}
+.border #orange{
+
+    border-radius: 400px;
+    padding: 60px;
+    background-color: orange;
+}
+.border #yellow{
+    border-radius: 500px;
+    padding: 60px;
+    background-color: yellow;
+}
+.border #green{
+    border-radius: 500px;
+    padding: 60px;
+    background-color: green;
+}
+.border #blue{
+    border-radius: 500px;
+    padding: 60px;
+    background-color: blue;
+
+}
+.border #purple{
+    border-radius: 500px;
+    padding: 60px;
+    background-color: purple;
+}
+
+
+      
+     
