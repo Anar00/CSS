@@ -1,0 +1,33 @@
+.class .class2{
+    background-color: rgb(37, 103, 203);
+}
+.class #id1{
+ color: aquamarine;
+}
+
+div.element{
+    color: brown;
+}
+a , span{
+    color: beige;
+}
+
+span > h1{
+    text-align: center;
+    
+    color:blue ;
+}
+h2 + h4 {
+    color: chartreuse;   
+}
+
+
+[title~=number]{
+    font-style: oblique;
+}
+[title$=name]{
+    font-size: xx-large;
+}
+
+
+
