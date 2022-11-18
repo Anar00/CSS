@@ -1,0 +1,26 @@
+
+.siteText{
+    color: tomato;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+     
+.anasayfa{
+    color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.column{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.bloud{
+    color: goldenrod;
+
+}

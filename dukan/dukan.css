@@ -1,0 +1,28 @@
+.site{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.siteText{
+   color: tomato;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+
+}
+.urun{
+    color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.instruments{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}

@@ -1,0 +1,17 @@
+.siteText{
+    color: tomato;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+     
+.hakkimizda{
+    color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+b{
+    color: darkgoldenrod;
+}
